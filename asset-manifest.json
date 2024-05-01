@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/sofiyaBV/app-furniture/static/css/main.976be72a.css",
+    "main.js": "/sofiyaBV/app-furniture/static/js/main.40f1a534.js",
+    "static/media/AdSlider_photo2.png": "/sofiyaBV/app-furniture/static/media/AdSlider_photo2.04e67bfa4c8d5c58796e.png",
+    "static/media/footer_fon.png": "/sofiyaBV/app-furniture/static/media/footer_fon.e2a7f9d35a8771e6aa02.png",
+    "static/media/adSlider_photo1.png": "/sofiyaBV/app-furniture/static/media/adSlider_photo1.1a4db6d5c938972d4a1f.png",
+    "static/media/adSlider_photo3.png": "/sofiyaBV/app-furniture/static/media/adSlider_photo3.9024f4b04c54cc969bfd.png",
+    "static/media/Group 117.png": "/sofiyaBV/app-furniture/static/media/Group 117.ed295a5471aa1dafc06f.png",
+    "static/media/Klosh_Wall_Clock_photo.png": "/sofiyaBV/app-furniture/static/media/Klosh_Wall_Clock_photo.7ff30ff5c41c9f60ede6.png",
+    "static/media/Klosh_Table_Clock_photo.png": "/sofiyaBV/app-furniture/static/media/Klosh_Table_Clock_photo.2e19a034428670b07575.png",
+    "static/media/Vasagle_Vanity_Table_photo.png": "/sofiyaBV/app-furniture/static/media/Vasagle_Vanity_Table_photo.d2c06cafc5c5ed082f4e.png",
+    "static/media/Modern_Bedroom_Storage_photo.png": "/sofiyaBV/app-furniture/static/media/Modern_Bedroom_Storage_photo.b9c60d617cc5c631fd8d.png",
+    "static/media/Pillow_photo.png": "/sofiyaBV/app-furniture/static/media/Pillow_photo.36c94a0acf81a425e870.png",
+    "static/media/Adkins_Dressing_Table_photo.png": "/sofiyaBV/app-furniture/static/media/Adkins_Dressing_Table_photo.b92934645201553b88f9.png",
+    "static/media/Metal_Vintage_Pendant_photo.png": "/sofiyaBV/app-furniture/static/media/Metal_Vintage_Pendant_photo.0d1289ed60e9e0e55352.png",
+    "static/media/Arne_Dining_Chair_photo.png": "/sofiyaBV/app-furniture/static/media/Arne_Dining_Chair_photo.9f07b00f42adcf3d106f.png",
+    "static/media/Hironpal_Dressing_Table_photo.png": "/sofiyaBV/app-furniture/static/media/Hironpal_Dressing_Table_photo.8b0792981b9727f23f31.png",
+    "static/media/Modern_Outdoor_Chair_photo.png": "/sofiyaBV/app-furniture/static/media/Modern_Outdoor_Chair_photo.5ba072732aa90ffcbcd9.png",
+    "static/media/Deco_Dressing_Table_photo.png": "/sofiyaBV/app-furniture/static/media/Deco_Dressing_Table_photo.8824a20a3c8077c77bf3.png",
+    "static/media/shopping-cart.png": "/sofiyaBV/app-furniture/static/media/shopping-cart.7a30dd244627ad851dd3.png",
+    "static/media/slick.svg": "/sofiyaBV/app-furniture/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/sofiyaBV/app-furniture/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/sofiyaBV/app-furniture/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/sofiyaBV/app-furniture/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/sofiyaBV/app-furniture/index.html",
+    "main.976be72a.css.map": "/sofiyaBV/app-furniture/static/css/main.976be72a.css.map",
+    "main.40f1a534.js.map": "/sofiyaBV/app-furniture/static/js/main.40f1a534.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.976be72a.css",
+    "static/js/main.40f1a534.js"
+  ]
+}
