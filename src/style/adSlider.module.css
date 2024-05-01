@@ -1,0 +1,36 @@
+.info_container_ad{
+    display: flex;
+    align-items: center;
+justify-content: center;
+margin: 2vw 0 2vw 0;
+
+}
+.info_container_ad img{
+    width: 43vw;
+}
+.container_txt{
+    text-align: start;
+    padding:  0 0 0 6vw;
+
+}
+.container_txt h2{
+    text-align: start;
+    font-size: 50px;
+    font-weight: 400;
+    color: #3a3a3a;
+    font-family: "Federo", sans-serif;
+    width: 30vw;
+    margin: 0;
+}
+.container_txt button{
+    background-color: #434343;
+    color: #FFFFFF;
+    margin-top: 1vw;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    padding: 5px;
+    width: 10vw;
+    height: 2vw;
+    font-weight: 400;
+    font-size: 16px;
+}

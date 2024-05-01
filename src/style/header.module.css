@@ -1,0 +1,25 @@
+.div_container{
+    display: flex;
+    align-items: center;
+    margin: 0 0 0 5vw;
+    list-style-type: none;
+
+}
+h2{
+    margin-right: 10vw;
+    font-family: "Potta One", system-ui;
+    font-weight: 400;
+    font-style: autho;
+    color: #565759;
+}
+li{
+    margin-right: 3vw;
+}
+.div_container img{
+    width: 25%;
+    height: 25%;
+    margin-right: 2vw;
+}
+.first_image {
+    margin-left: 12vw;
+}
